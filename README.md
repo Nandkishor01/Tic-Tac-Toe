@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 Run the game by executing the main Python file:
 ```bash
-python main.py
+python tic-tac-toe.py
 ```
 
 ## Contributing
