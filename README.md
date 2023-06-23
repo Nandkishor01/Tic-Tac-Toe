@@ -1,6 +1,6 @@
 #  Tic Tac Toe Game with Python and Pygame
 
-This repository contains a simple implementation of the Tic Tac Toe game using Python and the Pygame library. The game allows two players to compete against each other in a classic X's and O's battle.
+This repository contains a simple implementation of the Tic Tac Toe (GUI) game using Python and the Pygame library. The game allows two players to compete against each other in a classic X's and O's battle.
 
 ## Installation
 Clone the repository to your local machine using the following command:
